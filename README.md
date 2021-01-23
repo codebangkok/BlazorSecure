@@ -21,6 +21,7 @@
 - Live! Code https://fb.com/CodeBangkok/videos
 - Blazor WebAssembly & PWA https://fb.com/CodeBangkok/videos/141751867230080
 - Blazor Server & WebAssembly https://fb.com/CodeBangkok/videos/813699355805749
+- .NET Microservices with Project Tye https://fb.com/CodeBangkok/videos/949917385522453
 
 ### Communities
 - CodeBangkok https://fb.com/CodeBangkok
