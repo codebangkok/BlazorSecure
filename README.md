@@ -1,5 +1,7 @@
 # Securing Blazor WebAssembly
 
+[![](http://img.youtube.com/vi/-iQkrvBBcTA/0.jpg)](http://www.youtube.com/watch?v=-iQkrvBBcTA "")
+
 ### .NET Conf 2020 Thailand (Online Event) 
 - January 23, 2021
 - Live: https://youtu.be/-iQkrvBBcTA
