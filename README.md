@@ -13,6 +13,7 @@
 - https://mvp.microsoft.com/en-us/PublicProfile/4028458
 
 #### Resources
+- Github https://github.com/codebangkok/BlazorSecure
 - Microsoft.Tye https://nuget.org/packages/Microsoft.Tye
 - IdentityServer4.Templates https://nuget.org/packages/IdentityServer4.Templates
 - Microsoft.AspNetCore.Components.WebAssembly.Authentication https://nuget.org/packages/Microsoft.AspNetCore.Components.WebAssembly.Authentication
