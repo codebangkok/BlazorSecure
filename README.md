@@ -11,8 +11,8 @@
 
 ### Speaker
 - Surasuk Oakkharaamonphong (Bond)
-- Microsoft MVP Developer Technologies
-- https://mvp.microsoft.com/en-us/PublicProfile/4028458
+- Microsoft MVP Developer Technologies https://mvp.microsoft.com/en-us/PublicProfile/4028458
+- Certificates https://youracclaim.com/users/surasuk612
 
 #### Resources
 - Github https://github.com/codebangkok/BlazorSecure
