@@ -1,5 +1,7 @@
 # Securing Blazor WebAssembly
 
+[![.NET Conf 2020 Thailand](https://img.youtube.com/vi/iQkrvBBcTA/0.jpg)](https://www.youtube.com/watch?v=iQkrvBBcTA)
+
 [![](http://img.youtube.com/vi/-iQkrvBBcTA/0.jpg)](http://www.youtube.com/watch?v=-iQkrvBBcTA "")
 
 ### .NET Conf 2020 Thailand (Online Event) 
